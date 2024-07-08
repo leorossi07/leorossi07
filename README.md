@@ -37,5 +37,5 @@ Welcome to my GitHub profile, hope you enjoy!
 
 ## 📞 Contact - Please, feel free to reach me
 
-- **LinkedIn**: [Leo Rossi Dourado](https://www.linkedin.com/in/leo-rossi-dourado/)
+- **LinkedIn**: [Leonardo Rossi Dourado](https://www.linkedin.com/in/leo-rossi-dourado/)
 - **Email**: [leonardorossi@estudante.ufscar.br](mailto:leonardorossi@estudante.ufscar.br)
