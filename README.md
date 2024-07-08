@@ -18,7 +18,7 @@ Welcome to my GitHub profile, hope you enjoy!
 - **C and C++**: more than 3 years of experience
 - **Java**: CRUD applications
 - **Version Control**: Git, GitHub, GitLab
-- **Database: SQL, MySQL, Apache Derby
+- **Database**: SQL, MySQL, Apache Derby
   
 ## 📚 Education
 - **UFSCar - Federal University of São Carlos**
