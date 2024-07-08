@@ -10,7 +10,7 @@ Welcome to my GitHub profile, hope you enjoy!
 - Passionate for NLP and Machine Learning.
 
 ### Web Development
-- **JavaScript**: more than 2 years of experience
+- **JavaScript**: more than 1 year of experience
 - **FrontEnd**: HTML, CSS
 - **BackEnd**: Node.js, Django
 
