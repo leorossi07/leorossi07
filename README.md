@@ -29,8 +29,6 @@ Welcome to my GitHub profile, hope you enjoy!
 - **Panda - UFSCar**: Active member of the Data Science group focusing on NLP and Machine Learning. Working on a data analysis project using Scikit-Learn, SpaCy, Pandas, and Numpy.
 - **Cati Jr - UFSCar**: Ex-member of the commercial department of this software development company.
 
-### 🔬 Research
-- Scientific research on the classification of centroids based on geodesic distances in graphs to improve the performance in complex and non-linear databases.
 
 ### 💡 Projects
 - Currently developing a chatbot AI for WhatsApp that uses leads to guide the content, captures client responses using AI and NLP, and offers products and promotions.
