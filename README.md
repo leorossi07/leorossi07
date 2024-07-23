@@ -12,7 +12,7 @@ Welcome to my GitHub profile, hope you enjoy!
 ### Web Development
 - **JavaScript**: more than 1 year of experience
 - **FrontEnd**: HTML, CSS
-- **BackEnd**: Node.js, Django
+- **BackEnd**:  Django
 
 ### Other Technologies
 - **C and C++**: more than 3 years of experience
