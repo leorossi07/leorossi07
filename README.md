@@ -26,7 +26,7 @@ Welcome to my GitHub profile, hope you enjoy!
   - Expected Graduation: December 2025
 
 ## 🌐 Extracurricular Activities
-- **Panda - UFSCar**: Active member of the Data Science group focusing on NLP and Machine Learning. Working on a data analysis project using Scikit-Learn, SpaCy, Pandas, and Numpy.
+- **Panda - UFSCar**: Member of the Data Science group focusing on NLP and Machine Learning. Working on a data analysis project using Scikit-Learn, SpaCy, Pandas, and Numpy.
 - **Cati Jr - UFSCar**: Ex-member of the commercial department of this software development company.
 
 
