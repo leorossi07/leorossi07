@@ -30,8 +30,6 @@ Welcome to my GitHub profile, hope you enjoy!
 - **Cati Jr - UFSCar**: Ex-member of the commercial department of this software development company.
 
 
-### 💡 Projects
-- Currently developing a chatbot AI for WhatsApp that uses leads to guide the content, captures client responses using AI and NLP, and offers products and promotions.
 
 ## 📞 Contact - Please, feel free to reach me
 
