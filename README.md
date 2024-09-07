@@ -12,6 +12,7 @@ Welcome to my GitHub profile, hope you enjoy!
 ### Web Development
 - **JavaScript**: more than 1 year of experience
 - **FrontEnd**: HTML, CSS
+- **Java Spring Boot**: Learning NOW
 - **BackEnd**:  Django
 
 ### Other Technologies
