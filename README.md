@@ -10,9 +10,9 @@ Welcome to my GitHub profile, hope you enjoy!
 - Passionate for NLP and Machine Learning.
 
 ### Web Development
-- **JavaScript**: more than 1 year of experience
+- **JavaScript**: used sometimes.
 - **FrontEnd**: HTML, CSS
-- **Java Spring Boot**: Learning NOW
+- **Java Spring Boot**: recently learning
 - **BackEnd**:  Django
 
 ### Other Technologies
